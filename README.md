@@ -15,7 +15,7 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kmdickey&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kmdickey&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
